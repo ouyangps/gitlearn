@@ -5,4 +5,5 @@ Git tracks changes.
 Creating a new branch is quick.
 Again creating a new branch is quick
 Creating a new branch is quick & simple.
-Switched to a new branch 'dev'
+Switched to a new branch 'dev'.
+Git is a free software distributed
